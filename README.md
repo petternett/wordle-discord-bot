@@ -1,7 +1,7 @@
 # Wordle Discord Bot
 Self-hosted Discord bot. Gather and display statistics about Wordle games in a Discord channel or thread.
 
-(For threads to work, use the latest discord.py version from [this repo](https://github.com/Rapptz/discord.py).
+For threads to work, use the latest discord.py version from [this repo](https://github.com/Rapptz/discord.py).
 
 ![The bot sending a message in a Discord channel](images/stats.png)
 
