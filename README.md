@@ -22,7 +22,7 @@ Self-hosted Discord bot. Gather and display statistics about Wordle games in a D
 
 
 ## Requirements
-Requires Python 3.8+, discord.py v1.7.3, asyncio v.3.4.3, emoji v2.0.0.
+Requires Python 3.8+, discord.py v1.7.3, asyncio v.3.4.3, emoji v2.0.0, apscheduler v3.9.1.
 
 You can install the requirements with `pip instlall -r requirements.txt`
 
