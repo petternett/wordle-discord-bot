@@ -22,7 +22,7 @@ For threads to work, use the latest discord.py version from [this repo](https://
 
 
 ## Requirements
-Requires Python 3.8+, discord.py v1.7.3, asyncio v.3.4.3, emoji v2.0.0.
+Requires Python 3.8+, [discord.py v1.7.3](https://pypi.org/project/discord.py/), [asyncio v.3.4.3](https://pypi.org/project/asyncio/), [emoji v2.0.0](https://pypi.org/project/emoji/).
 
 You can install the requirements with `pip instlall -r requirements.txt`
 
