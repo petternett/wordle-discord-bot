@@ -1,7 +1,7 @@
 # Wordle Discord Bot
 Self-hosted Discord bot. Gather and display statistics about Wordle games in a Discord channel or thread.
 
-(For threads to work, use the latest discord.py version from [this repo](https://github.com/Rapptz/discord.py).
+For threads to work, use the latest discord.py version from [this repo](https://github.com/Rapptz/discord.py).
 
 ![The bot sending a message in a Discord channel](images/stats.png)
 
@@ -22,7 +22,7 @@ Self-hosted Discord bot. Gather and display statistics about Wordle games in a D
 
 
 ## Requirements
-Requires Python 3.8+, discord.py v1.7.3, asyncio v.3.4.3, emoji v2.0.0, apscheduler v3.9.1.
+Requires Python 3.8+, [discord.py v1.7.3](https://pypi.org/project/discord.py/), [asyncio v.3.4.3](https://pypi.org/project/asyncio/), [emoji v2.0.0](https://pypi.org/project/emoji/), [apscheduler v3.9.1](https://pypi.org/project/APScheduler/).
 
 You can install the requirements with `pip instlall -r requirements.txt`
 
