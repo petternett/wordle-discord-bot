@@ -28,7 +28,7 @@ You can install the requirements with `pip install -r requirements.txt`
 
 ## Installation
 [Create a bot account](https://discordpy.readthedocs.io/en/stable/discord.html) and invite it to your server.
-It requires permission to read historical chat data and post messages.
+It requires permission to read historical chat data and post messages, as well as the `message_content` intent enabled.
 
 Set the token in a file in the same directory as `wordle_bot.py` called `secret.py` in which you set `token = "YOUR_TOKEN_HERE"`.
 
