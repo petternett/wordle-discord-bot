@@ -1,21 +1,18 @@
 # Wordle Discord Bot
 Self-hosted Discord bot. Gather and display statistics about Wordle games in a Discord channel or thread.
 
-For threads to work, use the latest discord.py version from [this repo](https://github.com/Rapptz/discord.py).
-
 ![The bot sending a message in a Discord channel](images/stats.png)
 
 
 ## Features
-- List all Wordle players
-- Show a score of average guesses (lower is better)
-- Show each player's streak (useful if playing across multiple devices)
-- Reads all previously posted 
+- Lists all Wordle players in the server
+- Ranks players based on average number of guesses
+- Keeps track of each player's streak (useful if playing across multiple devices)
+- Reads all previously posted results
 
 
 ## Planned features
 - Details for specific players (`!wordle <user>`)
-- Count games played on hard mode
 - Earliest post in the day on average
 - Player with best started word on average
 - Fair overall game score (players who play more often get higher scores)
